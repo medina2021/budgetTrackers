@@ -19,7 +19,7 @@ SO THAT my account balance is accurate when I am traveling
 
 ## Screen Shot
 
-[/images/BudgetTracker.PNG]
+![Screen Shot](public/images/Budget%20Tracker.jpg)
 
 
 ## Links
