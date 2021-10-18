@@ -19,8 +19,8 @@ SO THAT my account balance is accurate when I am traveling
 
 ## Screen Shot
 
-[images/BudgetTracker.PNG]
+[/images/BudgetTracker.PNG]
 
 
-## Acceptance Criteria
+## Links
 Link to Heroku: https://arcane-atoll-68694.herokuapp.com/
